@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "coop:blocks/prueba",
+    "up": "coop:blocks/prueba",
+    "north": "coop:blocks/prueba",
+    "east": "coop:blocks/prueba",
+    "south": "coop:blocks/prueba",
+    "west": "coop:blocks/prueba",
+    "particle": "coop:blocks/prueba"
+  },
+  "render_type": "solid"
+}
