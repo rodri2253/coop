@@ -14,27 +14,13 @@
           "src/main/resources/assets/coop/blockstates/prueba.json"
         ]
       }
-    },
-    {
-      "name": "GraciasInstalarMod",
-      "type": "achievement",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gracias_instalar_mod",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/coop/advancements/gracias_instalar_mod.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "advancements.gracias_instalar_mod.descr": "Gracias por instalar el mod",
-      "block.coop.prueba": "Prueba",
-      "advancements.gracias_instalar_mod.title": "Gracias Instalar Mod"
+      "block.coop.prueba": "Prueba"
     }
   },
   "foldersRoot": {
